@@ -1,5 +1,6 @@
 package br.gov.ac.msemail.models;
 
+import br.gov.ac.msemail.enums.StatusEmail;
 import jakarta.persistence.*;
 
 import java.io.Serializable;
